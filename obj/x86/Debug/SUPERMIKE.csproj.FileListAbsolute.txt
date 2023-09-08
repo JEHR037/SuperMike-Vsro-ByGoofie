@@ -1,0 +1,10 @@
+E:\SUPERMAN\bin\Debug\SUPERMIKE.exe
+E:\SUPERMAN\bin\Debug\SUPERMIKE.pdb
+E:\SUPERMAN\obj\x86\Debug\SUPERMIKE.exe
+E:\SUPERMAN\obj\x86\Debug\SUPERMIKE.pdb
+E:\SUPERMAN\obj\x86\Debug\SUPERMIKE.csprojResolveAssemblyReference.cache
+D:\Programas\SUPERMAN\bin\Debug\SUPERMIKE.exe
+D:\Programas\SUPERMAN\bin\Debug\SUPERMIKE.pdb
+D:\Programas\SUPERMAN\obj\x86\Debug\SUPERMIKE.csprojAssemblyReference.cache
+D:\Programas\SUPERMAN\obj\x86\Debug\SUPERMIKE.exe
+D:\Programas\SUPERMAN\obj\x86\Debug\SUPERMIKE.pdb
